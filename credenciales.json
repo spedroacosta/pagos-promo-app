@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "argon-depth-341711",
+  "private_key_id": "43a63aeb059a1d88ba50dcb140a4efb7f983acd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCr7nN5w5n1rfO\ncI7puzGjrNqwYUbAb6FsX30cwLwjrykVzeT881n3Gsi7rWI8iTRgadYZg+iNFTnZ\n8j/YyNVpF/yhF1oJ4E87O7WZQibwvdr6aUniLc/91V3ohI4mC/0OaL35O0/tmIXV\nT2I1SyI1CyLjOk1M4Qv7yqXmn0gn3K5ElOmTESvwyPBCit0G4yeu5791mDkwnww3\nQdYTbktKavJArLDYT9x/fmRHYhL66xlaiG4jQxM3m9P6IjT/DMfyZOzjAaAk63m4\nY0GImWnX4t5Azn9vn+kNF6D/5OU4xnaA0hC20jd5F8FzYDeZcJYShWNhuAsPmUKa\nVv4MzjXfAgMBAAECggEABFwibBhdkTkUxVxt8ZFjS4gRHwa+qovqxd40PhLu468G\nMNp7OKhL09CCEvnktk2tokRx1VZykcjvkmWYxRu888KOwh4fbRMx6GCuRhqze+Ff\nPbZilNxzyPp175bFsYJujgZjIr66S9bblcBWXF0st0Vi6Esjn1zMLj0GjsNIaWQU\ntL3smaz3GO7gvJ3xMVWcI/jIeB+YKAqpRxU5tDH3HxQJkBK9Mh8qJ5ZJwwRh3iGf\nxsnKKwgF3c4BrmlhzSs8aC9Zw1os5H+JsUSM9Dg8lrjIzFosKNSGi+dYm3OF35eU\nxhVFRkqmBN3fSNM77buIIYpp2E4xUu5NU7VZgxYsIQKBgQD913KSwGirOG0NO05u\n8KMjYOx4Xwh/rr8muXcnVVjCoLk06mq/awEzWDE8GYygjl+ozfhxoRvdJHK5ECPQ\nTV8pCTru0zYEhBBzeMaIymVKJemDb2JjvDexB2C6asoa58JyrK4OTEfFj4bSy2YS\nMjuoxLXuoCruNgOFPFX2ciikcQKBgQDEV4L4S5yQqzkeA6/u/34lZv764UrHAGx8\nluEpo82sS+IeTH7FYSacWO+Lm2gaBDXBD+xS4XkX3viWgm50S91fDi9K3Hdu+VS9\nqa3kn0v+2iSyPXSfvcDR6G31nlOYwl8tHCvL1sG9/R7yfPpOKqiYdj2ReBxwjZml\n/gJx3rpnTwKBgQCEh/04456CbtZ5BxLfV2JFsXAlNLDyQSFqLYEplyTdkR7BovaS\n9GJPFWe3UjubBFqrfsaNRSmQH1yKhQO92PerLDeJw9q7JtyT/WXiu5GA0iSGTBxZ\nqEaHdiupiOH2hDSAvOmva2I5osMowauMKo/9gJ7gdN2VO7xAzwyuvFG98QKBgQC5\nRN6YDzkopfkaol4URtAw2PSHpalbCMJV+kVzdlbwWxZ+gq4o8Bhv9dfsQ3PDAO/8\nQls8hfgvFz45P9CcOq4kMQ1dNZYZiHp3EbK+Bba/P/banfT7eyGEsS95UrINdnQ6\n69dD3F0rOrtGE7pZohU+8Gv+ZXlol6VBpeOGsaXxLwKBgEXGYUk2YZN9OACEOT0N\nj/z/4Dc8fJhh+TAuZwfiRJbhttuS25mCvK2phEFu5mdaJYFDjyrhunxv6q1gzp4t\niwGqO4g1+UllEaXPv4s/l39eh/FvZr4FX+LKrVhAjaTXAIDTamRYvhZf2nN/CEul\neaF13HjhGc3vihrj3hRoh/O2\n-----END PRIVATE KEY-----\n",
+  "client_email": "promocion@argon-depth-341711.iam.gserviceaccount.com",
+  "client_id": "105981507599063612424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/promocion%40argon-depth-341711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
